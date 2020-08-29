@@ -1,0 +1,5 @@
+firebase init
+hosting configure and deploy firebase hosting sites
+use existing project
+build
+npm run build
