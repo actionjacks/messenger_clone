@@ -1,4 +1,4 @@
-## myTiktok
+## Chatting app
 
 ![Image of Fake covid](https://cdn.polscygracze.pl/uploads/2016/10/Facebook-Messenger-large.jpg)
 
